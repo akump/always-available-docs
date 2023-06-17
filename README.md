@@ -1,1 +1,1 @@
-https://andrews-recipes.surge.sh/
+https://always-available-docs.surge.sh/
