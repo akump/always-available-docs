@@ -2,9 +2,13 @@
 
 <ol>
   <li>
-    The lifetime subscription requires Venmo/Cash App. Venmo/Cash App $20 to
-    either account with your email as a note. Then, you will be able to login,
-    and use the extension forever.
+    With the lifetime option, you'll be able to enjoy MS Teams: Always Available
+    forever and enjoy all updates and new features forever.
+  </li>
+  <li>
+    In order to subscribe, simple Venmo/Cash App $20 to either account WITH YOUR
+    EMAIL as a note. Then, you will be able to login, and use the extension
+    forever.
   </li>
   <ul>
     <li>Cash App: $AndrewKump</li>
