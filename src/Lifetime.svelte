@@ -6,7 +6,7 @@
     forever and enjoy all updates and new features forever.
   </li>
   <li>
-    In order to subscribe, simple Venmo/Cash App $20 to either account WITH YOUR
+    In order to subscribe, simply Venmo/Cash App $20 to either account WITH YOUR
     EMAIL as a note. Then, you will be able to login, and use the extension
     forever.
   </li>
