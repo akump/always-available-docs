@@ -11,8 +11,8 @@
     <li>Venmo: Andrew-Kump-2</li>
   </ul>
   <li>
-    Next, I will add you to the list of Lifetime users. This requires me working
-    with our email provider which may take ~1 day.
+    Next, I will add you to the list of Lifetime users. This requires me
+    manually adding you. I will do this ASAP, and email you when completed.
   </li>
   <li>
     Next, you can login in the Lifetime column within the settings popup and
