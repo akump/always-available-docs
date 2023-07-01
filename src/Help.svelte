@@ -20,12 +20,6 @@
   </li>
 </ol>
 
-<img
-  style="width: 50%; margin-bottom: 25px"
-  src="img/subscription.jpg"
-  alt="subscription"
-/>
-
 <h2>Reinstall - this will reinitialize all listeners/logic</h2>
 <ol>
   <li>In chrome, navigate to: chrome://extensions/</li>
