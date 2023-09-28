@@ -85,7 +85,7 @@
   </li>
   <li>
     If you are here and still experiencing issues, send an email to me at
-    kumpandrew@gmail.com with a screenshot similar to the one below.
+    msteamsaa@gmail.com with a screenshot similar to the one below.
   </li>
 
   <img

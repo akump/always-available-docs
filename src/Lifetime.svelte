@@ -24,7 +24,7 @@
   </li>
   <li>
     If you need help with anything, please do not hesitate to email me at
-    kumpandrew@gmail.com
+    msteamsaa@gmail.com
   </li>
 </ol>
 
