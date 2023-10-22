@@ -134,3 +134,9 @@ li {
 .border-bottom {
   border-bottom: 1px solid gray;
 }
+
+a,
+a:visited,
+a:hover {
+  color: #7b83eb;
+}

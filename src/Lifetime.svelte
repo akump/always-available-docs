@@ -6,13 +6,18 @@
     forever and enjoy all updates and new features forever.
   </li>
   <li>
-    In order to subscribe, simply Venmo/Cash App $20 to either account WITH YOUR
-    EMAIL as a note. Then, you will be able to login, and use the extension
-    forever.
+    In order to subscribe, simply Venmo/Cash App/Paypal $20 WITH YOUR EMAIL as a
+    note. Then, you will be able to login, and use the extension forever.
   </li>
   <ul>
     <li>Cash App: $AndrewKump</li>
     <li>Venmo: Andrew-Kump-2</li>
+    <li>
+      Paypal: <a
+        href="https://paypal.me/MSteamsalwaysavail?country.x=US&locale.x=en_US"
+        >link</a
+      >
+    </li>
   </ul>
   <li>
     Next, I will add you to the list of Lifetime users. This requires me
