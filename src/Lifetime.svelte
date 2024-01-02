@@ -6,8 +6,8 @@
     forever and enjoy all updates and new features forever.
   </li>
   <li>
-    In order to subscribe, simply Paypal ̶$̶2̶0̶ $15(on sale for Christmas!) with
-    your email as a note. Then, I will email you next steps.
+    In order to subscribe, simply Paypal $20 with your email as a note. Then, I
+    will email you next steps.
   </li>
   <ul>
     <li>
