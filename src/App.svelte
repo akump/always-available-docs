@@ -1,6 +1,5 @@
 <script>
   import { Tabs, Tab, TabList, TabPanel } from "svelte-tabs";
-  import Lifetime from "./Lifetime.svelte";
   import Help from "./Help.svelte";
 </script>
 
@@ -14,12 +13,8 @@
   </h1>
   <Tabs>
     <TabList>
-      <Tab>Lifetime Subscription</Tab>
       <Tab>Wiki</Tab>
     </TabList>
-    <TabPanel>
-      <Lifetime />
-    </TabPanel>
     <TabPanel>
       <Help />
     </TabPanel>
